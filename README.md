@@ -1,3 +1,3 @@
 # K'drian Vega
-## Without hardware, there wouldn't be a reason for software
+## Without hardware, software is just a good idea.
 See more about me at https://
